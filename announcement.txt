@@ -1,4 +1,4 @@
-<size=2.3>Updated: 04/10/2026 at 21:11PM GMT+2 Time</color></size>
+Updated: 04/10/2026 at 21:11PM GMT+2 Time
 
 <#ffffff>Heya!
 Over 20 bugs have been fixed with 2026.4.11!
