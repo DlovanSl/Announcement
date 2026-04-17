@@ -1,8 +1,9 @@
-<size=1.9>Updated: 04/10/2026 at 21:11PM GMT+2 Time
+<size=1.9>Updated: 04/17/2026 at 15:43PM GMT+2 Time
 
 <#ffffff>Heya!
-Over 20 bugs have been fixed with 2026.4.11! (I have listed it on the github release notes)
-Also more Skins & Pets have been added to the game! Enjoy.
+Introducing Matchmaking filters! Yes they are finally here now and you can use them
+create lobbies with your own like! Enjoy :)
+(Submerged fixes and more are coming!)
 
 hide n seek is nearing to release, this month or may.... hehe...
 Join our server! https://discord.gg/auad
