@@ -1,8 +1,10 @@
-<size=1.9>Updated: 04/24/2026 at 2:43AM GMT+2 Time
+<size=1.9>Updated: 04/24/2026 at 17:28PM GMT+2 Time
 
 <#ffffff>Heya!
 Introducing Dark Mode! you can enable it in the Options Menu when in a lobby!
 (Various improvements, changes & more! Read our changes on the github)
+
+We also released 2026.4.24.1 to fix few issues after :)
 
 hide n seek is nearing hehehe... this will be the last version before something MASSIVE
 Join our server! https://discord.gg/auad
