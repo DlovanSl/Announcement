@@ -1,11 +1,10 @@
 <size=1.9>Updated: 04/17/2026 at 15:43PM GMT+2 Time
 
 <#ffffff>Heya!
-Introducing Matchmaking filters! Yes they are finally here now and you can use them
-create lobbies with your own like! Enjoy :)
-(Submerged fixes and more are coming!)
+Introducing Dark Mode! you can enable it in the Options Menu when in a lobby!
+(Various improvements, changes & more! Read our changes on the github)
 
-hide n seek is nearing to release, this month or may.... hehe...
+hide n seek is nearing hehehe... this will be the last version before something MASSIVE
 Join our server! https://discord.gg/auad
 
 - Dlovan
