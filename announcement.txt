@@ -1,11 +1,10 @@
-<size=1.9>Updated: 04/28/2026 at 12:40AM GMT+2 Time
+<size=1.9>Updated: 05/07/2026 at 19:45PM GMT+2 Time
 
 <#ffffff>Hello There!
 
-Thank you Mr Bax for making Classic Us more popular! That really motivated us a lot and really means a lot for us!
-I now have fixed a ton of bugs that was plaguing the game yesterday and have listened to your feedback! Here's Classic Us 2026.4.28!
+I've released a new update of <link='github.com/DlovanSl/ClassicUs/releases/tag/2026.5.7'><color=#0000FF>Classic Us</color></color></link> that has several improvements & adjustments and a new easter egg...
+can you try to guess it? hehe....
 
-
-Join our server! https://discord.gg/auad
+<link='discord.gg/auad'><color=#0000FF>Join Our Discord Server!</color></color></link> 
 
 - Dlovan
