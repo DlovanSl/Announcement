@@ -2,8 +2,8 @@
 
 <#ffffff>Hello There!
 
-I've released a new update of <link='github.com/DlovanSl/ClassicUs/releases/tag/2026.5.7'><color=#0000FF>Classic Us</color></color></link> that has several improvements & adjustments and a new easter egg...
-can you try to guess it? hehe....
+A new small update released that should be final bug fixes update (hopefully) of <link='http://github.com/DlovanSl/ClassicUs/releases/tag/2026.5.9'><color=#0000FF>Classic Us</color></color></link> for something that would be coming
+:o
 
 <link='discord.gg/auad'><color=#0000FF>Join Our Discord Server!</color></color></link> 
 
