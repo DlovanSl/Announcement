@@ -2,8 +2,8 @@
 
 <#ffffff>Hello There!
 
-A new small update released that should be final bug fixes update (hopefully) of <link='http://github.com/DlovanSl/ClassicUs/releases/tag/2026.5.9'><color=#0000FF>Classic Us</color></color></link> for something that would be coming
-:o
+Update 2026.5.13 has released and it is a birthday party.... Celebration of AUAD! Thank you for being a part of us and make sure to check out <link='https://github.com/DlovanSl/ClassicUs/releases/tag/2026.5.13'><color=#0000FF>The Update Here</color></color></link> to update!
+:D
 
 <link='discord.gg/auad'><color=#0000FF>Join Our Discord Server!</color></color></link> 
 
