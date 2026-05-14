@@ -2,11 +2,11 @@
 
 <#ffffff>Hello There!
 
-On 16th of May we will be holding the biggest 50 player lobby event stream for ClassicUs! You should not miss it out and <link='https://www.youtube.com/watch?v=tjqiyNo6IFw'><color=#0000FF>Check it here & enable reminder for the stream</color></color></link>
+On 16th of May we will be holding the biggest 50 player lobby event stream for ClassicUs! Here is the link to the stream and you could check it out to enable reminder: <link='https://www.youtube.com/watch?v=tjqiyNo6IFw'><color=#0000FF>Youtube Stream</color></color></link>
 
-Update 2026.5.13 has released and it is a birthday party.... Celebration of AUAD! Thank you for being a part of us and make sure to check out <link='https://github.com/DlovanSl/ClassicUs/releases/tag/2026.5.13'><color=#0000FF>The Update Here</color></color></link> to update!
+Update 2026.5.13 has released and it is a birthday party.... Celebration of AUAD! Thank you for being a part of us and make sure to check out <link='https://github.com/DlovanSl/ClassicUs/releases/tag/2026.5.13'><color=#0000FF>2026.5.13</color></color></link> to update!
 :D
 
-<link='discord.gg/auad'><color=#0000FF>Join Our Discord Server!</color></color></link> 
+Here is our discord server if you would like to join:<link='discord.gg/auad'><color=#0000FF>Discord</color></color></link> 
 
 - Dlovan
