@@ -1,5 +1,6 @@
 [
   { "name": "North America", "ip": "178.156.171.131", "port": 22023 },
+  { "name": "Europe", "ip": "46.62.194.17", "port": 22023 }
 ]
 
 
