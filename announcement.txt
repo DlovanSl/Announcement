@@ -1,11 +1,11 @@
-<size=1.9>Updated: 05/16/2026 at 14:09PM GMT+2 Time
+<size=1.9>Updated: 05/17/2026 at 3:28AM GMT+2 Time
 
 <#ffffff>Hello There!
 
-On 16th of May (today) we will be hosting the biggest 50 players lobby event so come join us today! <link='https://www.youtube.com/watch?v=tjqiyNo6IFw'><color=#0000FF>Youtube Stream</color></color></link>
+Introducing PROXIMITY VOICE CHAT! you can now use your voice in-game to talk with others! (if host has it enabled in the lobby settings)
 
-Update 2026.5.16 has released and has fixed lots of the bugs & issues, the game should be more smoother now. <link='https://github.com/DlovanSl/ClassicUs/releases/tag/2026.5.16'><color=#0000FF>2026.5.16</color></color></link> for dev logs & more! Auto-update should function.
-:D
+Check its fixes on: <link='https://github.com/DlovanSl/ClassicUs/releases/tag/2026.5.17'><color=#0000FF>2026.5.17</color></color></link> for dev logs & more! Auto-update should function and if it does not then you can get it from there!
+
 
 Here is our discord server if you would like to join:<link='discord.gg/auad'><color=#0000FF>Discord</color></color></link> 
 
