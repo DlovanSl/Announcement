@@ -1,10 +1,11 @@
-<size=1.9>Updated: 05/17/2026 at 3:28AM GMT+2 Time
+<size=1.9>Updated: 05/25/2026 at 12:00AM GMT+2 Time
 
-<#ffffff>Hello There!
+<#ffffff>Hi There!
 
-Introducing PROXIMITY VOICE CHAT! you can now use your voice in-game to talk with others! (if host has it enabled in the lobby settings)
+We've made improvements & adjustments to the proximity voice chat along with a filter in the matchmaking list! You can now choose between a voice chat lobby & none or any, Enjoy!
+We have also fixed several bugs to the game and adjustments so it should be more smoother experience to play ClassicUs!
 
-Check its fixes on: <link='https://github.com/DlovanSl/ClassicUs/releases/tag/2026.5.17'><color=#0000FF>2026.5.17</color></color></link> for dev logs & more! Auto-update should function and if it does not then you can get it from there!
+Check its fixes on: <link='https://github.com/DlovanSl/ClassicUs/releases/tag/2026.5.24'><color=#0000FF>2026.5.24</color></color></link> for dev logs & more! Auto-update should function and if it does not then you can get it from there!
 
 
 Here is our discord server if you would like to join:<link='discord.gg/auad'><color=#0000FF>Discord</color></color></link> 
