@@ -1,8 +1,10 @@
-<size=1.6>Updated: 07/11/2026 at 23:45PM GMT+2 Time
+<size=1.6>Updated: 07/30/2026 at 8:30PM GMT+3 Time
 
 <#ffffff>Yo!!
 
-INTRODUCING LEADERBOARDS! a new way to look up at each other and determine who is the best & more! :)
+INTRODUCING THE RUNNER GAMEMODE! a new way to rank and compete against other people, pretty fun right? 
+comes with lots of improvements and fixes for the game, enjoy!!
+
 Here is our official Discord Server if you would like to join for more updates! <link='discord.gg/auad'><color=#0000FF>Discord</color></color></link> 
 
-- Dlovan
+- Dlovan % anormalfreemodel
