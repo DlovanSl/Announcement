@@ -1,7 +1,7 @@
 <size=2>Hello! We're here to say if you enjoyed playing Classic Us, Consider supporting us
 by donating to our Ko-fi link by clicking <link="https://ko-fi.com/AUAD"><color=#0000FF>here to be redirected</color></link> to our donation page!
 
-This will help us continue to support the game and perhaps, doing something <b>BIG? :o</n>
+This will help us continue to support the game and perhaps, doing something <b>BIG? :o</b>
 
 Our Discord Server: <link="https://discord.gg/auad"><color=#0000FF>Discord</color></link> 
 Supporting Us: <link="https://ko-fi.com/AUAD"><color=#0000FF>Support Us</color></link> 
